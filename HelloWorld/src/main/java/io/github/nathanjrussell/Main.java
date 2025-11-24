@@ -4,6 +4,7 @@ package io.github.nathanjrussell;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello and welcome to the sample package!");
+        System.out.println("Hello from Nathan's Java project!");
+        System.out.println("I am so excited that I got to meet all of you!");
     }
 }

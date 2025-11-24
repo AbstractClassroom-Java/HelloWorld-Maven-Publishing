@@ -5,6 +5,6 @@ package io.github.nathanjrussell;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello from Nathan's Java project!");
-        System.out.println("I am so excited that I got to meet all of you!");
+        System.out.println("I'm so excited that I got to meet all of you!");
     }
 }
